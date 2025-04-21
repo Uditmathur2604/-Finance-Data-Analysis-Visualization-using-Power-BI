@@ -1,4 +1,4 @@
-# -Finance-Data-Analysis-Visualization-using-Power-BI
+# Finance-Data-Analysis-Visualization-using-Power-BI
  - Imported and transformed Finance sample data, including Segments, Country, Product, Sales, Profit, Discounts, and other key financial metrics.
  - Created dynamic visualizations, including:
   1. Clustered Column Chart to track sales trends over different years.
